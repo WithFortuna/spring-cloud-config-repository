@@ -1,0 +1,7 @@
+jwt:
+  secret: your-256-bit-secret-key-change-this-in-production-min-32-chars-for-security
+  access-token-expiration: 900000
+  refresh-token-expiration: 604800000
+
+gateway:
+  ip: 192.168.0.123
