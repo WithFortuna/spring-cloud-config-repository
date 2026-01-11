@@ -23,3 +23,5 @@ jwt:
 freshmen:
   ment: shinzo-sasageo(config-service)
 
+for:
+  dev-profile: halllong
