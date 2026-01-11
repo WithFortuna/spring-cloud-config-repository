@@ -23,6 +23,3 @@ jwt:
 freshmen:
   ment: shinzo-sasageo(config-service)
 
-for:
-  you: from-ecommerce.yml
-  default-profile: hallo-form-config-service
